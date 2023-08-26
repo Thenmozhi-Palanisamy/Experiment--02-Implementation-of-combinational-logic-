@@ -1,15 +1,15 @@
-# Experiment--02-Implementation-of-combinational-logic
+# Name:Thenmozhi P
+# reg no:212221230116
+
+# Experiment-02 Implementation of combinational logic
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
- 
- 
- 
-## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
 
+## Equipments Required:
+ Hardware – PCs, Cyclone II , USB flasher
+Software – Quartus prime
 
 ## Theory
 Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
@@ -36,12 +36,9 @@ An OR gate is a fundamental digital logic gate that performs a logical disjuncti
 
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
-/*
 ```
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by:Thenmohi P 
 RegisterNumber:  212221230116
-*/
 module DE2(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
@@ -62,7 +59,7 @@ endmodule
 ![image](https://github.com/Thenmozhi-Palanisamy/Experiment--02-Implementation-of-combinational-logic-/assets/95198708/b280551a-f504-449b-8050-3c61de9a5b15)
 
 ## output waveform
-![d2](https://github.com/Thenmozhi-Palanisamy/Experiment--02-Implementation-of-combinational-logic-/assets/95198708/c5b83379-e0b6-42b9-b90d-8353134d814a)
+![image](https://github.com/Thenmozhi-Palanisamy/Experiment--02-Implementation-of-combinational-logic-/assets/95198708/6257b628-becc-4675-a376-d748838a6a2b)
 
 
 ## Result:
