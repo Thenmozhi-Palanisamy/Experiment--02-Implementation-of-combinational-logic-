@@ -1,6 +1,3 @@
-# Name:Thenmozhi P
-# reg no:212221230116
-
 # Experiment-02 Implementation of combinational logic
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
