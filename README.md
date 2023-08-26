@@ -1,6 +1,4 @@
 # Experiment--02-Implementation-of-combinational-logic
-Implementation of combinational logic gates
- 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
